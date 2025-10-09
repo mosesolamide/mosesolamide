@@ -18,7 +18,7 @@ I enjoy learning new technologies to build scalable and efficient web applicatio
 | -------- | ------------ | ----------- | ---------- |
 | 🛒 **Shopsphere** | A sleek, modern e-commerce website that allows users to browse, filter, and purchase products with a smooth and intuitive shopping experience. |React, Tailwind CSS, Firebase  | [shopsphere12.netlify.app](https://shopsphere12.netlify.app/) |
 | 🪑 **Furniture Store** | A contemporary furniture showcase website built while exploring React 19’s new data loading using **loader functions** for faster, more efficient rendering. |React 19, Tailwind CSS, Firebase  | [furniture237.netlify.app](https://furniture237.netlify.app/) |
-| 🕯️ **Candle Leaf** | A clean and elegant candle shop website with smooth visuals and user-friendly design. |React 19, Tailwind CSS, Supabase  | [candle-leaf.pxxl.click](https://candle-leaf.pxxl.click/) |
+| 🕯️ **Candle Leaf** | A clean and elegant candle shop website with smooth visuals and user-friendly design. |React 19, Tailwind CSS, Supabase,Typescript  | [candle-leaf.pxxl.click](https://candle-leaf.pxxl.click/) |
 | 🌐 **MoWebDev** | My personal web agency site where I help businesses and individuals build fast, responsive, and impactful web solutions tailored to their goals. |React 19, Tailwind CSS, Framer Motion, Typescript  | [mowebdev.com.ng](https://mowebdev.com.ng/) |
 
 
