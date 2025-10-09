@@ -10,7 +10,15 @@ I'm a **Frontend Developer** focused on building **user-friendly, responsive, an
 - 🛠️ **Tools:** Git, GitHub, VS Code  
 - 🚀 **Currently Learning:** Advanced React, Supabase, WordPress development, real-world application projects
 
-##
+## My Projects
+
+| Project | Description | Stack Used | Live Link |
+| -------- | ------------ | ----------- | ---------- |
+| 🛒 **Shopsphere** | A sleek, modern e-commerce website that allows users to browse, filter, and purchase products with a smooth and intuitive shopping experience. |  | [shopsphere12.netlify.app](https://shopsphere12.netlify.app/) |
+| 🪑 **Furniture Store** | A contemporary furniture showcase website built while exploring React 19’s new data loading using **loader functions** for faster, more efficient rendering. |  | [furniture237.netlify.app](https://furniture237.netlify.app/) |
+| 🌐 **MoWebDev** | My personal web agency site where I help businesses and individuals build fast, responsive, and impactful web solutions tailored to their goals. |  | [mowebdev.com.ng](https://mowebdev.com.ng/) |
+
+
 
 
 
