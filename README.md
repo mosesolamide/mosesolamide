@@ -1,13 +1,15 @@
 ## Hi, I'm Moses 👋
 
 ## About Me
-I'm a **Frontend Developer** focused on building **user-friendly, responsive, and practical web interfaces**. I enjoy transforming ideas into real products that solve problems and improve user experiences. 
+
+I'm a **Frontend Developer** focused on building **user-friendly, responsive, and practical web interfaces**. I enjoy transforming ideas into real products that solve problems and improve user experiences.  
+I enjoy learning new technologies to build scalable and efficient web applications.
 
 ## My Stack
 
 - 💻 **Languages:** HTML, CSS, JavaScript, TypeScript  
-- ⚛️ **Frameworks & Libraries:** React, Tailwind CSS, Framer Motion, WordPress, Firebase
-- 🛠️ **Tools:** Git, GitHub, VS Code  
+- ⚛️ **Frameworks & Libraries:** React 19, Tailwind CSS, Framer Motion, WordPress, Firebase
+- 🛠️ **Tools:** Git, GitHub, VS Code, API Integration
 - 🚀 **Currently Learning:** Advanced React, Supabase, WordPress development, real-world application projects
 
 ## My Projects
